@@ -4,4 +4,4 @@ The "Aristo" theme for Cappuccino ported to a jQuery UI Theme, with permission b
 
 More information available at http://taitems.tumblr.com
 
-Demo is here: http://taitems.github.com/Aristo-jQuery-UI-Theme/
+Demo is here: http://taitems.github.com/Aristo-jQuery-UI-Theme
